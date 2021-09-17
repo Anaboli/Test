@@ -1,6 +1,6 @@
 import gradio as gr
 import spacy
-nlp = spacy.load("Anaboli/Test")
+nlp = spacy.load("g/Anaboli/Test")
 
 def tmf632recognition(text):
     
