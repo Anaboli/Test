@@ -1,6 +1,6 @@
 import gradio as gr
 import spacy
-nlp = spacy.load("C:\\Users\\Olive\\Desktop\\Untitled Folder")
+nlp = spacy.load("Test")
 
 def tmf632recognition(text):
     
